@@ -1,0 +1,13 @@
+# Build artifacts
+/noritoc
+/src/*.o
+
+# Generated or temporary files
+*.out
+*.tmp
+*.log
+
+# Local editor / OS files
+.DS_Store
+*.swp
+*.swo
